@@ -1,6 +1,6 @@
 {
   "name": "parsley-bundler",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "repository": {
