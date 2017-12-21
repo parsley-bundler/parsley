@@ -124,7 +124,7 @@ describe('html', function() {
 
     let html = fs.readFileSync(__dirname + '/dist/index.html', 'utf8');
     assert(
-      html.includes('<script src="https://unpkg.com/parcel-bundler"></script>')
+      html.includes('<script src="https://unpkg.com/parsley-bundler"></script>')
     );
   });
 

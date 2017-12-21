@@ -14,7 +14,7 @@ To get started with the project:
 You'll need [Git], [Node], and [Yarn] installed. Then clone the repository:
 
 ```js
-git clone git@github.com:parcel-bundler/parcel.git && cd parcel
+git clone git@github.com:parsley-bundler/parsley.git && cd parsley
 ```
 
 Run Yarn:
